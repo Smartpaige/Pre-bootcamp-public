@@ -1,0 +1,37 @@
+.container{
+    height: 200px;
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+}
+.top-nav {
+    height: 175px;
+    width: 950px;
+    background-color: rgb(1, 69, 1);
+}
+.side-nav {
+    height: 175px;
+    width: 950px;
+    background-color: #fffb00;
+}
+.main {
+    height: 175px;
+    width: 950px;
+    background-color: red;
+}
+.sub-content {
+    height: 0px;
+    width: 0px;
+    background-color: yellow;
+}
+#advertisement {
+    height: 0px;
+    width: 0px;
+    background-color: purple;
+}
+.row {
+    /* TODO - what should go here? */
+}
+
+
+
